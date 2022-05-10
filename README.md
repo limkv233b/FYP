@@ -11,8 +11,14 @@
 
 Download pretrained model from 
   https://www.dropbox.com/sh/23adceu2i85c4x1/AACLmaiL43Jy8eYIVVUkZ344a?dl=0
+  
+ 
 Download Dataset from 
   https://www.dropbox.com/sh/1s6r4slurc5ei2n/AACg6TqoDfGdKe8t40Em1fgxa?dl=0
+  
+ 
 Download Trained Model from 
   https://drive.google.com/drive/folders/1OZdiE0AXfDUr1FqPRcF3tTu_k1ZR5keC?usp=sharing
+  
+ 
 Download all of the above and place it into MyDrive of google drive, when running from google colab, link to your google drive 
